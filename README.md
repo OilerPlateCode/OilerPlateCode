@@ -10,7 +10,9 @@ I’m a **Front End Lead Developer** with over **10 years of experience** buildi
 Currently, I’m expanding my skills into **Java & Spring Boot**, and working on my **portfolio project** to showcase my full-stack journey.  
 
 Beyond coding, I share my knowledge and experiences on **TikTok, YouTube, and Instagram** under the brand:  
-🎥 **[OilerPlate Code](https://github.com/oilerplatecode)** – simplifying tech, one line of code at a time.  
+🎥 **[OilerPlate Code](https://github.com/oilerplatecode)** – simplifying tech, one line of code at a time.
+
+Here is my **[CV](https://oilerplatecode.github.io/mbuzulwane-cv/)**
 
 ---
 
@@ -69,7 +71,6 @@ Beyond coding, I share my knowledge and experiences on **TikTok, YouTube, and In
   <a href="https://www.instagram.com/oilerplatecode"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mphendvulo-ginindza"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </p>  
-https://www.linkedin.com/in/mbuzulwane-ginindza-99230030a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ---
 
 ⭐ *“Code is not just a career – it’s a canvas to create, inspire, and impact lives.”*  

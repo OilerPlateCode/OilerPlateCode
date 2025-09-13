@@ -69,7 +69,7 @@ Here is my **[CV](https://oilerplatecode.github.io/mbuzulwane-cv/)**
   <a href="https://www.tiktok.com/@oiler_plate_code"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
   <a href="https://www.youtube.com/@oilerplatecode"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="https://www.instagram.com/oilerplatecode"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="[https://www.linkedin.com/in/mbuzulwane-ginindza-99230030a](https://www.linkedin.com/in/mbuzulwane-ginindza-99230030a"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/mbuzulwane-ginindza-99230030a](https://www.linkedin.com/in/mbuzulwane-ginindza-99230030a)"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </p>  
 ---
 

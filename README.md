@@ -64,12 +64,12 @@ Beyond coding, I share my knowledge and experiences on **TikTok, YouTube, and In
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://www.tiktok.com/@oilerplatecode"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@oiler_plate_code"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
   <a href="https://www.youtube.com/@oilerplatecode"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="https://www.instagram.com/oilerplatecode"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mphendvulo-ginindza"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </p>  
-
+https://www.linkedin.com/in/mbuzulwane-ginindza-99230030a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ---
 
 ⭐ *“Code is not just a career – it’s a canvas to create, inspire, and impact lives.”*  
